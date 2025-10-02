@@ -2,7 +2,7 @@
 HaveSxS
 
 =======
-WinSxS is no longer winning.
+WinSxS is no longer winning .
 
 Usage
 -----
