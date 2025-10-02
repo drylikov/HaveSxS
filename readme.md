@@ -10,4 +10,4 @@ lmao
 
 License
 -------
-The project is licensed under the terms of the GNU General Public License v3.0
+The project is licensed under the terms of the MIT License .
