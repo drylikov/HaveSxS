@@ -1,5 +1,6 @@
 
-haveSxS
+HaveSxS
+
 =======
 WinSxS is no longer winning.
 
